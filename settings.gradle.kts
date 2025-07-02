@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "tugas_13"
+rootProject.name = "unscramble"
 include(":app")
+ 
